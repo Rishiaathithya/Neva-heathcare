@@ -1,0 +1,130 @@
+body{
+	background-color:black;
+	
+}  
+body.body::-webkit-scrollbar{
+	display: none;
+
+}
+
+
+.NAV{
+        display: flex;
+        justify-content: right;
+        font: Arial;
+        left: 90%;
+        margin: 0%;
+        gap: 2em;
+        flex-direction: row;
+
+
+        
+}
+.NAV select{
+	cursor: pointer;
+	font-size: 15px;
+	background: transparent;
+	color:#14A76C;
+	padding: 5px;
+	border: 2px;
+	margin: 0%;
+}
+.NAV select:hover{
+  	
+  	color:#BC08D9 ;
+}
+
+
+
+
+a{
+	color: #FF652F;
+}
+a:hover{
+	color:#;
+
+}
+
+
+#ctt{
+	display: flex;
+	width: 43%;
+	float: right;
+	
+
+	
+}
+.c-1{
+	font-size: 22px;
+	font-family: Times New Roman;
+	color: #11F8F1;
+	float: right;
+	width: 55%;
+
+
+
+} 
+
+
+.ct{
+	text-align: center;
+	font-size: 30px;
+	color: #BC08D9;
+}
+
+
+.Mri{
+	font-size: 22px;
+	font-family: Times New Roman;
+	color: #BC08D9;
+	float: right;
+	width: 55%;
+
+}
+#mri{
+	
+	width: 43%;
+	float: left;
+
+}  
+
+
+
+#us{
+	width: 43%;
+	float: right;
+}
+.Us{
+	
+	font-size: 23px;
+	font-family: Times New Roman;
+	color: #11F8F1;
+	float: right;
+	width: 55%;
+
+}
+.Xray{
+	font-size: 20px;
+	font-family: Times New Roman;
+	color:#BC08D9;
+	float: right;
+	width: 60%;
+
+}
+ #xray{
+ 	float:left ;
+ 	width: 38%;
+ }
+
+ .wel{
+ 	font-size: 30px;
+ 	color: white;
+ 	text-decoration: underline;
+ }
+ .ffff{
+ 	float: right;
+ }
+
+ 
+
+
